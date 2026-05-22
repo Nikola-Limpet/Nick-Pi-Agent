@@ -1,0 +1,13 @@
+{
+  "lastChangelogVersion": "0.75.4",
+  "defaultProvider": "openai-codex",
+  "defaultModel": "gpt-5.5",
+  "defaultThinkingLevel": "high",
+  "theme": "forest-night",
+  "packages": [
+    "npm:context-mode",
+    "npm:pi-web-access",
+    "npm:@plannotator/pi-extension",
+    "npm:@narumitw/pi-btw"
+  ]
+}
