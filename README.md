@@ -1,6 +1,8 @@
 # Nick Pi Agent
 
 Personal Pi agent setup for Nick's Agent.
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/73bacb5a-6835-486a-86b9-6c5aaf7c2290" />
+
 
 ## Included
 
